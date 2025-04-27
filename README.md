@@ -1,4 +1,4 @@
-# 📝 Assignment: **School Records Assignment**
+# Assignment: **School Records Assignment**
 
 ## Instructions
 
